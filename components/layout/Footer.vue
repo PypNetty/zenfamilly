@@ -21,7 +21,7 @@
           <h4 class="font-semibold mb-4">Produit</h4>
           <ul class="space-y-2 text-sm text-gray-400">
             <li><NuxtLink to="/comment-ca-marche" class="hover:text-white transition-colors">Comment ça marche</NuxtLink></li>
-            <li><NuxtLink to="/prix" class="hover:text-white transition-colors">Tarifs</NuxtLink></li>
+            <li><NuxtLink to="/tarifs" class="hover:text-white transition-colors">Tarifs</NuxtLink></li>
             <li><NuxtLink to="/nounous" class="hover:text-white transition-colors">Devenir nounou</NuxtLink></li>
           </ul>
         </div>

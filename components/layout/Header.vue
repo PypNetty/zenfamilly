@@ -16,7 +16,7 @@
             Comment ça marche
           </NuxtLink>
           <NuxtLink 
-            to="/prix" 
+            to="/tarifs" 
             class="text-gray-600 hover:text-primary-600 transition-colors duration-200"
           >
             Tarifs
@@ -82,7 +82,7 @@
             Comment ça marche
           </NuxtLink>
           <NuxtLink 
-            to="/prix" 
+            to="/tarifs" 
             class="block text-gray-600 hover:text-primary-600 transition-colors duration-200"
             @click="isMenuOpen = false"
           >
